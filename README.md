@@ -7,8 +7,9 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 3. [CSS Variables](https://nicoleblanchette.github.io/03-css-variables/) | *Sets CSS Variables to dynamically manipulate an image*
 4. Array Cardio | **NO DEPLOYMENT** *Practice various array methods, repo link available in the next section*
 5. [Flex Gallery](https://nicoleblanchette.github.io/05-flex-gallery/) | *Click on the pictures! Flexbox demo*
-6. [Type Ahead](https://github.com/nicoleblanchette/06-type-ahead) |  *Search through a database of cities and view its population*
+6. [Type Ahead](https://nicoleblanchette.github.io/06-type-ahead/) |  *Search through a database of cities and view its population*
 7. Array Cardio 2 | **NO DEPLOYMENT** *Practice various array methods, repo link available in the next section*
+8. [HTML5 Canvas](https://nicoleblanchette.github.io/08-html5-canvas/) | *Basic paint app with a color changing brush!*
 
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
@@ -18,3 +19,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 5. [Flex Gallery](https://github.com/nicoleblanchette/05-flex-gallery)
 6. [Type Ahead](https://github.com/nicoleblanchette/06-type-ahead)
 7. [Array Cardio 2](https://github.com/nicoleblanchette/07-array-cardio-2)
+8. [HTML5 Canvas](https://github.com/nicoleblanchette/08-html5-canvas)
