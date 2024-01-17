@@ -8,6 +8,7 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 4. Array Cardio | **NO DEPLOYMENT** *Practice various array methods, repo link available in the next section*
 5. [Flex Gallery](https://nicoleblanchette.github.io/05-flex-gallery/) | *Click on the pictures! Flexbox demo*
 6. [Type Ahead](https://github.com/nicoleblanchette/06-type-ahead) |  *Search through a database of cities and view its population*
+7. Array Cardio 2 | **NO DEPLOYMENT** *Practice various array methods, repo link available in the next section*
 
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
@@ -16,3 +17,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 4. [Array Cardio](https://github.com/nicoleblanchette/04-array-cardio) 
 5. [Flex Gallery](https://github.com/nicoleblanchette/05-flex-gallery)
 6. [Type Ahead](https://github.com/nicoleblanchette/06-type-ahead)
+7. [Array Cardio 2](https://github.com/nicoleblanchette/07-array-cardio-2)
