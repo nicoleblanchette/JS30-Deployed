@@ -13,6 +13,7 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 9. Dev Tool Tricks | **NO DEPLOYMENT** *Practiced different tricks in the developer tools and went over `console` methods*
 10. [Multiple Checkbox](https://nicoleblanchette.github.io/10-multiple-checkbox/) | *Press shift to select multiple checkboxes at once*
 11. [Video Player](https://nicoleblanchette.github.io/11-video-player/) | *Stylized video player- includes video scrubbing, playback speed adjustment, skip forwards and backwards, and a volume slider*
+12. [Konami Code](https://nicoleblanchette.github.io/12-konami-code/) | *Type **rafflesia** and see what happens!*
 
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
@@ -26,3 +27,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 9. [Dev Tool Tricks](https://github.com/nicoleblanchette/09-dev-tool-tricks)
 10. [Multiple Checkbox](https://github.com/nicoleblanchette/10-multiple-checkbox/settings/pages)
 11. [Video Player](https://github.com/nicoleblanchette/11-video-player)
+12. [Konami Code](https://github.com/nicoleblanchette/12-konami-code)
