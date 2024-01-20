@@ -20,6 +20,9 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 16. [Moving Text Shadow](https://nicoleblanchette.github.io/16-cursor-shadow/) | *Move your cursor if you have a mouse, tilt your device otherwise! Also - you can edit the text too*  
   Note: Currently, the tilt feature does not work on iOS 12.2 or later
 17. [Sorting Bands](https://nicoleblanchette.github.io/17-sorting-bands/) | *Sorts band names using regex to not include articles like "the"*
+18. [Tally String Time] | **NO DEPLOYMENT** *Add together times stored as strings*
+
+
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
 2. [Clock](https://github.com/nicoleblanchette/02-clock)
@@ -38,3 +41,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 15. [LocalStorage and Event Delegation](https://github.com/nicoleblanchette/15-local-storage-and-delegation)
 16. [Moving Text Shadow](https://github.com/nicoleblanchette/16-cursor-shadow)
 17. [Sorting Bands](https://github.com/nicoleblanchette/17-sorting-bands)
+18. [Tally String Times](https://github.com/nicoleblanchette/18-tally-string-time)
