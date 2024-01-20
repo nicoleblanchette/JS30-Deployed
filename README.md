@@ -17,6 +17,7 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 13. [Slide in on Scroll](https://nicoleblanchette.github.io/13-slide-in-on-scroll/) | *Adds a "slide in" effect on images*
 14. Reference vs. Copy | **NO DEPLOYMENT** *Demonstration on the difference between pass by reference and pass by value, as well as the difference between a shallow and deep clone*
 15. [LocalStorage and Event Delegation](https://nicoleblanchette.github.io/15-local-storage-and-delegation/) | *Create a list that is saved upon page refresh*
+16. [Moving Text Shadow](https://nicoleblanchette.github.io/16-cursor-shadow/) | *Move your cursor if you have a mouse, tilt your device otherwise! Also - you can edit the text too*
 
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
@@ -34,3 +35,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 13. [Slide in on Scroll](https://github.com/nicoleblanchette/13-slide-in-on-scroll)
 14. [Reference vs. Copy](https://github.com/nicoleblanchette/14-reference-vs-copy)
 15. [LocalStorage and Event Delegation](https://github.com/nicoleblanchette/15-local-storage-and-delegation)
+16. [Moving Text Shadow](https://github.com/nicoleblanchette/16-cursor-shadow)
