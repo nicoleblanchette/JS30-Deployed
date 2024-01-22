@@ -20,11 +20,11 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 16. [Moving Text Shadow](https://nicoleblanchette.github.io/16-cursor-shadow/) | *Move your cursor if you have a mouse, tilt your device otherwise! Also - you can edit the text too*  
   Note: Currently, the tilt feature does not work on iOS 12.2 or later
 17. [Sorting Bands](https://nicoleblanchette.github.io/17-sorting-bands/) | *Sorts band names using regex to not include articles like "the"*
-18. [Tally String Time] | **NO DEPLOYMENT** *Add together times stored as strings*
+18. Tally String Time | **NO DEPLOYMENT** *Add together times stored as strings*
 19. [Unreal Webcam](https://nicoleblanchette.github.io/19-unreal-webcam/) | *Photo booth app with various filters*
   Note: Currently incompatible with iOS devices and any in-app Meta browser
-20. [Speech Recognition](https://nicoleblanchette.github.io/20-speech-recognition/) | *Text to speech! Say the phrase "Can you hear me?"*
-  Note: Incompatible with Firefox and limited compatibility on Opera
+20. [Speech Recognition](https://nicoleblanchette.github.io/20-speech-recognition/) | *Text to speech! Say the phrase "Can you hear me?"*  
+  Note: Incompatible with Firefox and limited compatibility on Opera  
   Note #2: Chrome is reccomended
 
 ## Repository Links  
