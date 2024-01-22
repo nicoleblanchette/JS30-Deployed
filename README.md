@@ -22,7 +22,10 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 17. [Sorting Bands](https://nicoleblanchette.github.io/17-sorting-bands/) | *Sorts band names using regex to not include articles like "the"*
 18. [Tally String Time] | **NO DEPLOYMENT** *Add together times stored as strings*
 19. [Unreal Webcam](https://nicoleblanchette.github.io/19-unreal-webcam/) | *Photo booth app with various filters*
-
+  Note: Currently incompatible with iOS devices and any in-app Meta browser
+20. [Speech Recognition](https://nicoleblanchette.github.io/20-speech-recognition/) | *Text to speech! Say the phrase "Can you hear me?"*
+  Note: Incompatible with Firefox and limited compatibility on Opera
+  Note #2: Chrome is reccomended
 
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
@@ -44,3 +47,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 17. [Sorting Bands](https://github.com/nicoleblanchette/17-sorting-bands)
 18. [Tally String Times](https://github.com/nicoleblanchette/18-tally-string-time)
 19. [Unreal Webcam](https://github.com/nicoleblanchette/19-unreal-webcam)
+20. [Speech Synthesis](https://github.com/nicoleblanchette/20-speech-recognition)
