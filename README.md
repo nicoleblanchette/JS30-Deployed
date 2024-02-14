@@ -26,6 +26,7 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 20. [Speech Recognition](https://nicoleblanchette.github.io/20-speech-recognition/) | *Text to speech! Say the phrase "Can you hear me?"*  
   Note: Incompatible with Firefox and limited compatibility on Opera  
   Note #2: Chrome is reccomended
+21. [Geolocation](https://nicoleblanchette.github.io/21-geolocation/) | *Simple compass. If the actual compass cannot be reached, it uses the device's position along the z axis to simulate a compass*
 
 ## Repository Links  
 1. [Drum Kit](https://github.com/nicoleblanchette/01-drum-kit)
@@ -48,3 +49,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 18. [Tally String Times](https://github.com/nicoleblanchette/18-tally-string-time)
 19. [Unreal Webcam](https://github.com/nicoleblanchette/19-unreal-webcam)
 20. [Speech Synthesis](https://github.com/nicoleblanchette/20-speech-recognition)
+21. [Geolocation](https://github.com/nicoleblanchette/21-geolocation)
