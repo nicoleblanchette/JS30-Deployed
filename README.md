@@ -25,11 +25,12 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 18. Tally String Time | **NO DEPLOYMENT** _Add together times stored as strings_
 19. [Unreal Webcam](https://nicoleblanchette.github.io/19-unreal-webcam/) | _Photo booth app with various filters_
     Note: Currently incompatible with iOS devices and any in-app Meta browser
-20. [Speech Recognition](https://nicoleblanchette.github.io/20-speech-recognition/) | _Text to speech! Say the phrase "Can you hear me?"_  
+20. [Speech Recognition](https://nicoleblanchette.github.io/20-speech-recognition/) | _Speech to text! Say the phrase "Can you hear me?"_  
     Note: Incompatible with Firefox and limited compatibility on Opera  
     Note #2: Chrome is reccomended
 21. [Geolocation](https://nicoleblanchette.github.io/21-geolocation/) | _Simple compass. If the actual compass cannot be reached, it uses the device's position along the z axis to simulate a compass_
 22. [Follow Along Link](https://nicoleblanchette.github.io/22-follow-along-links/) | _Drag your mouse along all the links to see a cool highlight animation_
+23. [Speech Synthesis](https://nicoleblanchette.github.io/23-speech-synthesis/) | _Text to speech! Some voices do not load instantly, but they all work!_
 
 ## Repository Links
 
@@ -55,3 +56,4 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 20. [Speech Synthesis](https://github.com/nicoleblanchette/20-speech-recognition)
 21. [Geolocation](https://github.com/nicoleblanchette/21-geolocation)
 22. [Follow Along Link](https://github.com/nicoleblanchette/22-follow-along-links)
+23. [Speech Synthesis](https://github.com/nicoleblanchette/23-speech-synthesis)
