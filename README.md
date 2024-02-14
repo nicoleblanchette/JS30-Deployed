@@ -1,6 +1,8 @@
 # JS30 Deployed
 
-JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://github.com/wesbos/JavaScript30). The projects are meant to be completed within a day. Below you can find all my entries for the challenge. My solutions have updated syntax compared to the original solutions. My solutions are also written to work alongside Vite and have been deployed to GitHub Pages. Some projects are only compatible with desktop (for now). Some projects do not have a deployment link because the central task did not involve creating a website.
+JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://github.com/wesbos/JavaScript30). The projects are meant to be completed within a day. Below you can find all my entries for the challenge. My solutions have updated syntax compared to the original solutions. My solutions are also written to work alongside Vite and have been deployed to GitHub Pages. Some projects are only compatible with desktop (for now). Some projects do not have a deployment link because the central task did not involve creating a website.  
+
+Since the projects are meant to be completed in a day, any device not running Chrome (or Firefox, most of the time) on desktop may not work properly with some projects.
 
 ## Deployment Links
 
@@ -53,7 +55,7 @@ JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://gith
 17. [Sorting Bands](https://github.com/nicoleblanchette/17-sorting-bands)
 18. [Tally String Times](https://github.com/nicoleblanchette/18-tally-string-time)
 19. [Unreal Webcam](https://github.com/nicoleblanchette/19-unreal-webcam)
-20. [Speech Synthesis](https://github.com/nicoleblanchette/20-speech-recognition)
+20. [Speech Recognition](https://github.com/nicoleblanchette/20-speech-recognition)
 21. [Geolocation](https://github.com/nicoleblanchette/21-geolocation)
 22. [Follow Along Link](https://github.com/nicoleblanchette/22-follow-along-links)
 23. [Speech Synthesis](https://github.com/nicoleblanchette/23-speech-synthesis)
