@@ -34,6 +34,7 @@ Since the projects are meant to be completed in a day, any device not running Ch
 22. [Follow Along Link](https://nicoleblanchette.github.io/22-follow-along-links/) | _Drag your mouse along all the links to see a cool highlight animation_
 23. [Speech Synthesis](https://nicoleblanchette.github.io/23-speech-synthesis/) | _Text to speech! Some voices do not load instantly, but they all work!_
 24. [Sticky Nav](https://nicoleblanchette.github.io/24-sticky-nav/) | _Navigation bar that sticks to top of screen_
+25. [Event Behavior](https://nicoleblanchette.github.io/25-event-behavior/) | _Demonstration on event capture, propagation, bubbling, and the `once` property_
 
 ## Repository Links
 
@@ -61,3 +62,4 @@ Since the projects are meant to be completed in a day, any device not running Ch
 22. [Follow Along Link](https://github.com/nicoleblanchette/22-follow-along-links)
 23. [Speech Synthesis](https://github.com/nicoleblanchette/23-speech-synthesis)
 24. [Sticky Nav](https://github.com/nicoleblanchette/24-sticky-nav)
+25. [Event Behavior](https://github.com/nicoleblanchette/25-event-behavior)
