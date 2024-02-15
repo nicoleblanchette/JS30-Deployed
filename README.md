@@ -1,6 +1,6 @@
 # JS30 Deployed
 
-JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://github.com/wesbos/JavaScript30). The projects are meant to be completed within a day. Below you can find all my entries for the challenge. My solutions have updated syntax compared to the original solutions. My solutions are also written to work alongside Vite and have been deployed to GitHub Pages. Some projects are only compatible with desktop (for now). Some projects do not have a deployment link because the central task did not involve creating a website.  
+JavaScript30 is a set of 30 Vanilla JS projects curated by [Wesbos](https://github.com/wesbos/JavaScript30). The projects are meant to be completed within a day. Below you can find all my entries for the challenge. My solutions have updated syntax compared to the original solutions. My solutions are also written to work alongside Vite and have been deployed to GitHub Pages. Some projects are only compatible with desktop (for now). Some projects do not have a deployment link because the central task did not involve creating a website.
 
 Since the projects are meant to be completed in a day, any device not running Chrome (or Firefox, most of the time) on desktop may not work properly with some projects.
 
@@ -33,6 +33,7 @@ Since the projects are meant to be completed in a day, any device not running Ch
 21. [Geolocation](https://nicoleblanchette.github.io/21-geolocation/) | _Simple compass. If the actual compass cannot be reached, it uses the device's position along the z axis to simulate a compass_
 22. [Follow Along Link](https://nicoleblanchette.github.io/22-follow-along-links/) | _Drag your mouse along all the links to see a cool highlight animation_
 23. [Speech Synthesis](https://nicoleblanchette.github.io/23-speech-synthesis/) | _Text to speech! Some voices do not load instantly, but they all work!_
+24. [Sticky Nav](https://nicoleblanchette.github.io/24-sticky-nav/) | _Navigation bar that sticks to top of screen_
 
 ## Repository Links
 
@@ -59,3 +60,4 @@ Since the projects are meant to be completed in a day, any device not running Ch
 21. [Geolocation](https://github.com/nicoleblanchette/21-geolocation)
 22. [Follow Along Link](https://github.com/nicoleblanchette/22-follow-along-links)
 23. [Speech Synthesis](https://github.com/nicoleblanchette/23-speech-synthesis)
+24. [Sticky Nav](https://github.com/nicoleblanchette/24-sticky-nav)
