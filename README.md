@@ -38,6 +38,7 @@ Since the projects are meant to be completed in a day, any device not running Ch
 26. [Follow Along Dropdwown](https://nicoleblanchette.github.io/26-follow-along-dropdown/) | _Dropdown nav bar animation_
 27. [Click and Drag Scroll](https://nicoleblanchette.github.io/27-click-and-drag-scroll/) | _Side scrolling animation_
 28. [Video Speed UI](https://nicoleblanchette.github.io/28-video-ui/) | _Mousemove playback speed slider_
+29. [Countdown Clock](https://nicoleblanchette.github.io/29-countdown-clock/) | _Timer in minutes_
 
 ## Repository Links
 
@@ -69,3 +70,4 @@ Since the projects are meant to be completed in a day, any device not running Ch
 26. [Follow Along Dropdown](https://github.com/nicoleblanchette/26-follow-along-dropdown)
 27. [Click and Drag Scroll](https://github.com/nicoleblanchette/27-click-and-drag-scroll/settings/pages)
 28. [Video Speed UI](https://github.com/nicoleblanchette/28-video-ui)
+29. [Countdown Click](https://github.com/nicoleblanchette/29-countdown-clock)
