@@ -36,7 +36,8 @@ Since the projects are meant to be completed in a day, any device not running Ch
 24. [Sticky Nav](https://nicoleblanchette.github.io/24-sticky-nav/) | _Navigation bar that sticks to top of screen_
 25. [Event Behavior](https://nicoleblanchette.github.io/25-event-behavior/) | _Demonstration on event capture, propagation, bubbling, and the `once` property_
 26. [Follow Along Dropdwown](https://nicoleblanchette.github.io/26-follow-along-dropdown/) | _Dropdown nav bar animation_
-27. [Click and Drag Scroll](https://nicoleblanchette.github.io/27-click-and-drag-scroll/) | *Side scrolling animation*
+27. [Click and Drag Scroll](https://nicoleblanchette.github.io/27-click-and-drag-scroll/) | _Side scrolling animation_
+28. [Video Speed UI](https://nicoleblanchette.github.io/28-video-ui/) | _Mousemove playback speed slider_
 
 ## Repository Links
 
@@ -67,3 +68,4 @@ Since the projects are meant to be completed in a day, any device not running Ch
 25. [Event Behavior](https://github.com/nicoleblanchette/25-event-behavior)
 26. [Follow Along Dropdown](https://github.com/nicoleblanchette/26-follow-along-dropdown)
 27. [Click and Drag Scroll](https://github.com/nicoleblanchette/27-click-and-drag-scroll/settings/pages)
+28. [Video Speed UI](https://github.com/nicoleblanchette/28-video-ui)
